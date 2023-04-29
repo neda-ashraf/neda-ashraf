@@ -5,8 +5,8 @@
 <a href="https://linkedin.com/in/neda-ashraf" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="neda-ashraf" /></a>
 </p>
 
-- 💻 Currently learning Next Js, Node Js
-- 🔭 Exploring Web3 and learning Solidity
+- 💻 Currently learning Next Js & Solidity
+- 🔭 Exploring Web3 
 - 📫 How to reach me: *nedaashraf.official@gmail.com*
 
 
